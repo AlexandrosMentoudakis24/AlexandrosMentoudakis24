@@ -13,6 +13,8 @@ Full-Stack | Mobile developer
         <li>Node.js</li>
         <li>Flutter</li>
         <li>Next.js</li>
+        <li>Neo4k</li>
+        <li>MongoDb</li>
         <li>Tailwind</li>
         <li>Javascript</li>
         <li>Typescript</li>
